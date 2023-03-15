@@ -1,0 +1,8 @@
+$bg-primary-color: #fff;
+$bg-secondary-color: #ece8ea;
+$bg-dark-color: #050505;
+$secondary-color: #7a7a7a;
+
+@mixin border($color){
+    border-bottom: 1px solid $color;
+}
